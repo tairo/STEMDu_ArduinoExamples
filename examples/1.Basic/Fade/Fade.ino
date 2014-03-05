@@ -9,7 +9,7 @@
 
 int led = 13;           // the pin that the LED is attached to
 int brightness = 0;    // how bright the LED is
-int fadeAmount = 1;    // how many points to fade the LED by
+int fadeAmount = 5;    // how many points to fade the LED by
 
 // the setup routine runs once when you press reset:
 void setup()  { 
